@@ -1,4 +1,4 @@
-Django==2.2.10
+Django==2.2.13
 django-simple-captcha==0.5.12
 mysqlclient==1.4.6
 gunicorn==20.0.4
